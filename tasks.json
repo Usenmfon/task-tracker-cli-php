@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "description": "Buy milk",
+        "status": "in-progress",
+        "createdAt": "2025-07-02T20:47:09+02:00",
+        "updatedAt": "2025-07-02T21:02:10+02:00"
+    }
+]
